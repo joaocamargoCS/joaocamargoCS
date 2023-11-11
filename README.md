@@ -1,6 +1,6 @@
 # 👋 Meu nome é João Lourenço de Camargo Sardinha
 
-Sempre tive um profundo interesse do campo tecnológico. Meu objetivo é me tornar um desenvolvedor de software sênior.
+Sempre tive um profundo interesse no campo tecnológico. Meu objetivo é me tornar um desenvolvedor de software sênior.
 
 # 👀 Meus conhecimentos
 
